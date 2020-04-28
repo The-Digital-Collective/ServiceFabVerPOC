@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/ServiceFabVerPOC" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="Service4_InstanceCount" Value="-1" />
+    <Parameter Name="Service3_InstanceCount" Value="-1" />
+    <Parameter Name="Service2_InstanceCount" Value="-1" />
+    <Parameter Name="Service1_InstanceCount" Value="-1" />
+  </Parameters>
+</Application>
